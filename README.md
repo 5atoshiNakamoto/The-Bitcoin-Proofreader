@@ -1,11 +1,9 @@
-Zambia
+# The Bitcoin Proofreader
 
-# ZambiaBitcoinMeetups.com
+## Proofreading
+Indeed
 
-## Zambia Bitcoin Meetups
-Monthly at Scallywags in Lusaka
-
-## Twitter Spaces
+## Editing
 
 ## Resources
 
